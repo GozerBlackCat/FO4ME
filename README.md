@@ -1,29 +1,26 @@
-# Magnum Opus
+# FO4ME
 
 ---
 
-- [Magnum Opus](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#magnum-opus)
-- [Preamble](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#preamble)
-- [Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#installation)
-  - [Pre-Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#installing-microsoft-visual-c-redistributable-packages)
-      - [Visual Studio 2015, 2017, 2019, and 2022](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#visual-studio-2015-2017-2019-and-2022)
-      - [Visual Studio 2012 (VC++ 11.0) Update 4](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#visual-studio-2012-vc-110-update-4)
-    - [Steam Config](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#steam-config)
-      - [Disable the Steam Overlay](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#disable-the-steam-overlay)
-    - [Change Steams Update Behavior](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#change-steams-update-behavior)
-    - [Set the Game language to English](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#set-the-game-language-to-english)
-    - [Clean Fallout 4](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#clean-fallout-4)
-  - [Using Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#using-wabbajack)
-    - [Preparations](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#preparations)
-      - [Problems with Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#problems-with-wabbajack)
-- [Post Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#post-installation)
-- [Noteworthy Mods](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#noteworthy-mods)
-- [Creation Club Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#creation-club-support)
-- [A Few Quick Notes](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#a-few-quick-notes)
-- [FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#faq)
-- [Widescreen Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#widescreen-support)
-- [Contact](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#contact)
+- [FO4ME](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#FO4ME)
+- [Preamble](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#preamble)
+- [Installation](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#installation)
+  - [Pre-Installation](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#pre-installation)
+    - [Installing Microsoft Visual C++ Redistributable Package](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#installing-microsoft-visual-c-redistributable-packages)
+      - [Visual Studio 2015, 2017, 2019, and 2022](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#visual-studio-2015-2017-2019-and-2022)
+      - [Visual Studio 2012 (VC++ 11.0) Update 4](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#visual-studio-2012-vc-110-update-4)
+    - [Steam Config](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#steam-config)
+      - [Disable the Steam Overlay](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#disable-the-steam-overlay)
+    - [Change Steams Update Behavior](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#change-steams-update-behavior)
+    - [Set the Game language to English](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#set-the-game-language-to-english)
+    - [Clean Fallout 4](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#clean-fallout-4)
+  - [Using Wabbajack](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#using-wabbajack)
+    - [Preparations](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#preparations)
+      - [Problems with Wabbajack](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#problems-with-wabbajack)
+- [Post Installation](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#post-installation)
+- [Noteworthy Mods](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#noteworthy-mods)
+- [FAQ](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#faq)
+- [Contact](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#contact)
 
 ---
 
@@ -31,23 +28,13 @@
 
 ---
 
-### Magnum Opus
+### FO4ME
 
-Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no set goal I'm trying to achieve. I just want to have fun.
+FO4ME is a Fallout 4 modlist that ideally should serve as a jumping off point for anyone wanting to make their own customized list. It includes various bug fixes, stability improvements, and prerequisites for some popular mods. I tried to use mods that wouldn’t conflict with whatever you might add. This is a list for those that want to start making their own list without the hassle of manually downloading prerequisite mods on their own.
 
-This means if I like a mod, it's going in. There is no such thing as "it doesn't fit my aesthetic" or "it goes against the theme of the list." The theme is fun.
-
-To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
-
-This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/modlist/wj-featured/fallout_4_enhanced_edition) or [Life in the Ruins](https://www.wabbajack.org/modlist/wj-featured/life_in_the_ruins).
-
-Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
-
-**Please read this readme in its entirety.**
+.wabbajack link: https://drive.google.com/drive/folders/1An1ZTsocIKVtSgX4d7Sf8nVuQwFAvis4?usp=sharing
 
 **Please read the FAQ again before reporting an issue or asking me a question.**
-
-**Please consult the in-game Magnum Opus Beginner's Guide terminal (which also has a holotape for a portable version of the terminal!) outside Vault 111 before alt-tabbing out to Discord to ask for my help.**
 
 ---
 
@@ -63,7 +50,7 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 #### Installing Microsoft Visual C++ Redistributable Packages
 
-These packages are required for MO2 and for the BiRaitBec Texture Optimization step respectively, and you can download them from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+These packages are required for MO2 and you can download them from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 
 ##### Visual Studio 2015, 2017, 2019, and 2022
 
@@ -107,9 +94,12 @@ Let's get to the actual installation..
 
 Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
 
-Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
+Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Tick the `Show Unofficial Lists` button. Click the Download arrow for FO4ME, and you will be forwarded to the next screen when it is finished. 
 
-Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
+If it isn’t located there, download the `FO4ME.wabbajack` file located in the Google Drive link located at the top of the README. Launch Wabbajack, and select Install From Disk and under `Target Modlist`, find the `FO4ME.wabbajack` file and make sure it is selected.
+
+
+Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\FO4ME`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
@@ -118,18 +108,6 @@ Click the `Play` arrow. If you have a Nexus Premium account, all of your downloa
 ### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
-
-- **I'm having problems downloading a few files**
-
-The most common files that fail to download through Wabbajack are as follows:
-  -  [Tattoos Collection by Dreivor Overlays Edition (TCD)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=232053&game_id=1151iles)
-  -  [More Hairstyles - Beards](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
-  -  [Misc Hairstyles 1.6](http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
-  -  [FO4 Lodgen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)
-
-Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
-
-Need help with something else? [Join my Discord server for live support.](https://discord.gg/yABEjwB)
 
 - **Wabbajack could not find my game folder**:
 
@@ -141,7 +119,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
-Magnum Opus updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
+FO4ME updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
 
 Generally speaking:  
 - Full x.0 (2.0, 3.0, etc) updates requires a new game.  
@@ -160,31 +138,21 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Post Installation
 
-This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Post-Install.md) **Magnum Opus WILL CRASH CONSTANTLY if you do not do this part.**
+#### Copy Game Folder Files
+
+After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
+
+Copy all of the files from the `MO2/Game Folder Files` directory into your game folder. To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
+
+---
+
+#### Launching the Game
+
+After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 ---
 
 ## Noteworthy Mods
-
-### Sim Settlements 2
-
-Rebuild the Commonwealth with a mysterious stranger in a brand new, fully voiced, and - quite frankly - absolutely amazing questline in this highly anticipated sequel-of-sorts to the original Sim Settlements. 
-
-Read more about it [here](https://www.nexusmods.com/fallout4/mods/47976)!
-
-### Creative Perks Plus
-
-Perk overhaul built on top of another perk overhaul. Fancy!
-
-Do note that this mod is edited a bit for Magnum Opus, so not all the perks you see on this mod page will match up perfectly with this modlist's perk chart. This is not a bug, nor is it an issue with Whisky's mod! It is intended!
-
-Read more about it [here](https://www.nexusmods.com/fallout4/mods/49400)!
-
-### This is Trash - A Scrapping Alternative
-
-I got tired of individually scrapping every single leaf and rubbish pile every time I started a new game, so I took some inspiration from Wabbajack and automated it. Each settlement will now have a trash can next to the workbench. Scrap it and watch as the area is miraculously cleaned of all those stupid looking shrubs and garbage decals.
-
-Read more about it [here](https://www.nexusmods.com/fallout4/mods/42552)!
 
 ### Buffout 4
 
@@ -192,95 +160,43 @@ The equivalent of SSE Engine Fixes, Buffout basically makes lists like this poss
 
 Read more about it [here](https://www.nexusmods.com/fallout4/mods/47359)!
 
----
+### Unofficial Fallout 4 Patch
 
-## Creation Club Support
+A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.
 
-Magnum Opus now has support for some Creation Club mods as of version 3.2 of the modlist. To make use of this, you must follow a few steps:
-1. Click the profile dropdown menu at the top left of Mod Organizer 2, and make sure the active profile is set to `Magnum Opus`.
-2. Launch the game and download your CC mods from the in-game storefront.
-  -  Launching the game from Mod Organizer 2 will make all the creations download into your `overwrite` folder, which will make the next step a bit easier.
-3. Cut and paste all of your CC mods into `Magnum Opus\mods\Creation Club Content`. 
-4. Activate the `Creation Club Content` mod in Mod Organizer 2, then change the active profile to `Magnum Opus - CC Edition`.
-  -  Please take note that **you will need all of the CC mods listed below** in order for the CC Edition profile to work. The list of required Creations is below:  
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/4598)
 
-<details>
-  
-  <summary>Click this to expand the list of supported Creation Club mods</summary>
-  
-  * Anti-Material Rifle  
-  * CR-74L Combat Rifle  
-  * Arcade Workshop Pack  
-  * Capital Wasteland Mercenaries  
-  * Charlestown Condo  
-  * Captain Cosmos  
-  * Chinese Stealth Armor  
-  * Doom BFG  
-  * Doom Marine Armor  
-  * Fantasy Hero Set  
-  * Graphic T-Shirt Pack  
-  * Gunners vs Minutemen  
-  * Handmade Shotgun  
-  * Heavy Incinerator  
-  * Hellfire Power Armor  
-  * Horse Power Armor  
-  * Manwell Rifle Set  
-  * Modular Military Backpack  
-  * Morgan's Space Suit  
-  * Neon Flats  
-  * Noir Penthouse  
-  * Nuka-Cola Collector Workshop  
-  * Pint-Sized Slasher   
-  * Prototype Gauss Rifle  
-  * Quake Thunderbolt  
-  * Sentinel Control System Companion  
-  * Settlement Ambush Kit  
-  * Shroud Manor  
-  * Solar Cannon  
-  * Tesla Cannon  
-  * TransDOGrifier  
-  * Tunnel Snakes Rule  
-  * Virtual Workshop: Atomic Crater  
-  * Virtual Workshop: Desert Island  
-  * Virtual Workshop: GNR  
-  * Virtual Workshop: Grid World  
-  * X-02 Power Armor  
-  * Zetan Arsenal  
-  
-</details>
+Alongside 74 other active mods
 
-Pipboy Paint Jobs and Power Armor Paint Jobs are **NOT** supported.
-
-If you have a Missing Masters warning in Mod Organizer 2 after following this set of instructions for the Creation Club profile, then there are CC mods in this list you don't have.
-
-If you have CC mods that aren't in this list, that means I don't own them (yet?), so I cannot provide support. I'm doing my best here, please bear with me.
-
-You may also notice some other mods are deactivated in the CC Profile - namely, some armors, power armors, and weapons. This is because some CC mods act as pseudo variants of these, and I didn't want "doubles" essentially.
 
 ---
 
-## A Few Quick Notes
+### In-Game MCM Options
 
- - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
- - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
- - Sim Settlements 2: Chapter 2 is still in very active development. **Please do not update this mod on your own.** Granted, you shouldn't be updating *any* mod on your own, and doing so **will** void all support.
- - You will get a few pop-ups upon exiting Vault 111. For ECO, select this option:  
-![alt text](https://i.imgur.com/2F0OnWN.png)
+I don’t have any specific options, all of the settings are left to personal preference.
 
 ---
+### FAQ
 
-## FAQ
+**My characters have black/brown/tan faces.**
 
-I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/4f6d55358073233b3a2f91e267c47dcdd6d08ea5/wabbajack-stuff/faq-wip.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+- Disable the High Definition DLC in Steam's Manage DLC section. As per the beginning of this readme, the HD DLC is absolute garbage and WILL break a ton of facegen.
+
+**I am having random crashes.**
+
+- A reason this could be happening is due to your Nvidia driver. Roll back to version 442.xx and the crashes will be gone.
+
+- And yet another reason is due to BitDefender. You can temporarily disable BitDefender to alleviate this issue.
+
+### Credits and Thanks
+
+- To Halgari, for creating Wabbajack, the wonderful program that makes this possible.
+
+- To LivelyDismay, creator of Magnum Opus, whose work i have been silently studying and the person who I copied most of the writing in this README from. He’s a really good mod list author, and you should check Magnum Opus out.
+
+- To YOU, for reading this guide and following it.
 
 ---
-
-## Widescreen Support
-
-I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
-
----
-
 ## Contact
 
-I'm always available on [my own personal Discord Server](https://discord.gg/yABEjwB).
+I'm always available on [the Wabbajack discord server](https://discord.gg/wabbajack).
