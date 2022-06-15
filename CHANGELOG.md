@@ -1,3 +1,5 @@
+**1.0 (Read bottom to top for the additions in order)**
+
 +M8r98a4f2's Complex Item Sorter
 
 +FIS - The NEW FallUI Item Sorter
