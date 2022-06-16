@@ -1,3 +1,7 @@
+## **1.0.3 (Read bottom to top for additions in order)**
+
+Preparations for the UI
+
 ## **1.0.2 (Read bottom to top for additions in order)**
 
 Fixed the Complex Sorter Output (oops)
