@@ -99,9 +99,6 @@ Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (
 
 Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Tick the `Show Unofficial Lists` button. Click the Download arrow for FO4ME, and you will be forwarded to the next screen when it is finished. 
 
-If it isn’t located there, download the `FO4ME.wabbajack` file located in the Google Drive link located at the top of the README. Launch Wabbajack, and select Install From Disk and under `Target Modlist`, find the `FO4ME.wabbajack` file and make sure it is selected.
-
-
 Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\FO4ME`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
