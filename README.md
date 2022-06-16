@@ -37,8 +37,6 @@
 
 FO4ME (Fallout 4 Modding Essentials) is a Fallout 4 modlist that ideally should serve as a jumping off point for anyone wanting to make their own customized list. It includes various bug fixes, stability improvements, and prerequisites for some popular mods. I tried to use mods that wouldn’t conflict with whatever you might add. This is a list for those that want to start making their own list without the hassle of manually downloading prerequisite mods on their own.
 
-.wabbajack link: https://drive.google.com/drive/folders/1An1ZTsocIKVtSgX4d7Sf8nVuQwFAvis4?usp=sharing
-
 **Please read the FAQ again before reporting an issue or asking me a question.**
 
 ---
