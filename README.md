@@ -147,6 +147,14 @@ After Wabbajack turns green and says Installation Complete, you can close it. Go
 Copy all of the files from the `MO2/Game Folder Files` directory into your game folder. To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
 
 ---
+## How do I include my favorite weapon and armor mods cleanly?
+
+#### Patches For Lively's Keywords Resource and Whisper's Standalone Workbenches 
+
+Your first plan of action is to reinstall this mod
+
+
+---
 
 #### Launching the Game
 
@@ -168,8 +176,7 @@ A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 
 
 Read more about it [here](https://www.nexusmods.com/fallout4/mods/4598)
 
-Alongside 74 other active mods
-
+Alongside many other active mods
 
 ---
 
