@@ -8,6 +8,8 @@ Reran the Complex Sorter
 
 +4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
 
+Changed settings in Baka Scrapheap and Buffout 4 files
+
 Fixed file paths for FO4Edit, QAC, and Complex Sorter
 
 Cleaned the Load Order
