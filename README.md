@@ -18,15 +18,18 @@
     - [Preparations](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#preparations)
       - [Problems with Wabbajack](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#problems-with-wabbajack)
 - [Post Installation](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#post-installation)
+- [How do I include my favorite weapon and armor mods cleanly?](https://github.com/GozerBlackCat/FO4ME/edit/main/README.md#how-do-i-include-my-favorite-weapon-and-armor-mods-cleanly)
+- [What if I don't see the weapon or armor mod I want to include in the FOMOD?](https://github.com/GozerBlackCat/FO4ME/edit/main/README.md#what-if-i-dont-see-the-weapon-or-armor-mod-i-want-to-include-in-the-fomod)
 - [Noteworthy Mods](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#noteworthy-mods)
 - [FAQ](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#faq)
+- [Credits and Thanks](https://github.com/GozerBlackCat/FO4ME/edit/main/README.md#credits-and-thanks)
 - [Contact](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#contact)
 
 ---
 
 # Preamble
 
-![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/FO4ME.png?raw=true)
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/FO4ME.png?raw=true)
 
 ---
 
@@ -147,22 +150,33 @@ After Wabbajack turns green and says Installation Complete, you can close it. Go
 Copy all of the files from the `MO2/Game Folder Files` directory into your game folder. To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
 
 ---
+
+#### Launching the Game
+
+After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+
+---
 ## How do I include my favorite weapon and armor mods cleanly?
 
 #### Patches For Lively's Keywords Resource and Whisper's Standalone Workbenches 
 
 Your first plan of action is to reinstall this mod
 
-![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/patches2finished.png?raw=true)
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patches2finished.png?raw=true)
 
 You will be greeted with a FOMOD. If any of the modded items you have added are listed in this FOMOD, tick the corresponding box for that item.
 
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patches3.png?raw=true)
 
 ---
 
-#### Launching the Game
+## What if I don't see the weapon or armor mod I want to include in the FOMOD?
 
-After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+#### There is a guide just for this situation!
+
+LivelyDismay was nice enough to make a guide on how to patch items into his mod list "Magnum Opus"! This guide will work for patching modded items into FO4ME, as they use a similar sorting structure.
+
+Use this guide [here](https://github.com/LivelyDismay/Learn-To-Mod/blob/e700e10be41c1a70955e8426aee040bc647d90b3/lessons/Weapon%20Patching%20for%20Magnum%20Opus.md)!
 
 ---
 
