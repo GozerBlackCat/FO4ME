@@ -153,7 +153,7 @@ Copy all of the files from the `MO2/Game Folder Files` directory into your game 
 
 Your first plan of action is to reinstall this mod
 
-![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/patchesfinished.png?raw=true)
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/patches2finished.png?raw=true)
 
 You will be greeted with a FOMOD. If any of the modded items you have added are listed in this FOMOD, tick the corresponding box for that item.
 
