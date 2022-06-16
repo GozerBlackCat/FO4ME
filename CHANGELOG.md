@@ -1,3 +1,7 @@
+## **1.0.2 (Read bottom to top for additions in order)**
+
+Fixed the Complex Sorter Output (oops)
+
 ## **1.0.1 (Read bottom to top for additions in order)**
 
 Updated the Readme for instructions on how to patch in modded items
