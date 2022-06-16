@@ -1,5 +1,7 @@
 ## **1.0.3 (Read bottom to top for additions in order)**
 
+Updated README for FO4ME discord
+
 Preparations for the UI
 
 ## **1.0.2 (Read bottom to top for additions in order)**
