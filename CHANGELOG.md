@@ -1,4 +1,18 @@
-**1.0 (Read bottom to top for the additions in order)**
+## **1.0.1 (Read bottom to top for additions in order)**
+
+Updated the Readme for instructions on how to patch in modded items
+
+Reran the Complex Sorter
+
++Patches for Lively's Keywords Resource and Whisper's Standalone Workbenches
+
++4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
+
+Fixed file paths for FO4Edit, QAC, and Complex Sorter
+
+Cleaned the Load Order
+
+## **1.0 (Read bottom to top for the additions in order)**
 
 +M8r98a4f2's Complex Item Sorter
 
