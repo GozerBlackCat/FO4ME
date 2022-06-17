@@ -1,3 +1,9 @@
+## **1.0.4 (Read bottom to top for additions in order)**
+
+Changed how M8r's Complex Sorter is installed, to increase consistency with the weapon patching guide. Now uses the script for FO4Edit itself instead of the .bat file.
+
+Removed Faster Workshop as it is redundant due to Buffout 4
+
 ## **1.0.3 (Read bottom to top for additions in order)**
 
 Updated README for FO4ME discord
