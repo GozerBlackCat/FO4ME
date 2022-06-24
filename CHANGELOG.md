@@ -1,3 +1,11 @@
+## **1.0.5 (Read bottom to top for additions in order)**
+
++LKR and WSW Weapon Patches
+
++Fallout 4 Configuration Tool
+
+Unticked a box in "Patches for Lively's keywords Resource and Whisper's Standalone Workbenches"
+
 ## **1.0.4 (Read bottom to top for additions in order)**
 
 Changed how M8r's Complex Sorter is installed, to increase consistency with the weapon patching guide. Now uses the script for FO4Edit itself instead of the .bat file.
