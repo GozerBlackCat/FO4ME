@@ -163,9 +163,7 @@ You will be greeted with a FOMOD. If any of the modded items you have added are 
 
 ![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patches3.png?raw=true)
 
-
-
-## **Repeat this process with LKR and WSW Weapon Patches**
+Once you finish, do the same for "LKR and WSW Weapon Patches".
 
 ---
 
