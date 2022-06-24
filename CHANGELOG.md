@@ -1,5 +1,7 @@
 ## **1.0.5 (Read bottom to top for additions in order)**
 
+Edited README
+
 +LKR and WSW Weapon Patches
 
 +Fallout 4 Configuration Tool
