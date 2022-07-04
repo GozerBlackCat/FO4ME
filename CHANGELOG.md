@@ -1,3 +1,9 @@
+## **1.0.6 (Read bottom to top for additions in order)**
+
+Fixed Wabbajack not picking up some mods
+
+Edited README
+
 ## **1.0.5 (Read bottom to top for additions in order)**
 
 Edited README
