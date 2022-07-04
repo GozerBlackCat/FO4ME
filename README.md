@@ -188,17 +188,27 @@ Use this guide [here](https://github.com/LivelyDismay/Learn-To-Mod/blob/e700e10b
 
 After patching any mods that add items, you should use the complex sorter to have them be sorted correctly in game. it's very simple.
 
-First, open FO4Edit, and make sure all of your plugins are selected, excluding ones that are grayed out. Wait for the background loader to finish
+First, open FO4Edit, and make sure all of your plugins are selected, excluding ones that are grayed out. Wait for the background loader to finish.
+
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchpic3.png?raw=true)
 
 Next, right click in the left pane, and select `Apply Script`
 
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchpic4.png?raw=true)
+
 In the filter bar, type in "M8r" and find `M8r_ComplexSorter`. Run this script.
+
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchpic5.png?raw=true)
 
 You should be greeted with a window like this. Make sure it matches the picture, then simply click `Generate Patch`.
 
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchpic6.png?raw=true)
+
 Wait for the sorter to finish, then close out of it. You may now close FO4Edit. Be sure to save the new plugin.
 
-You did it!
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchpic7.png?raw=true)
+
+#### You did it!
 ---
 
 ## Noteworthy Mods
