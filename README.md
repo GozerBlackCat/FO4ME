@@ -163,7 +163,15 @@ You will be greeted with a FOMOD. If any of the modded items you have added are 
 
 ![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patches3.png?raw=true)
 
-Once you finish, do the same for "LKR and WSW Weapon Patches".
+#### LKR and WSW Weapon Patches
+
+Do the same for "LKR and WSW Weapon Patches".
+
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchpics1.png?raw=true)
+
+Same process here as with the previous patch
+
+![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchespic2.png?raw=true)
 
 ---
 
@@ -175,6 +183,22 @@ LivelyDismay was nice enough to make a guide on how to patch items into his mod 
 
 Use this guide [here](https://github.com/LivelyDismay/Learn-To-Mod/blob/e700e10be41c1a70955e8426aee040bc647d90b3/lessons/Weapon%20Patching%20for%20Magnum%20Opus.md)!
 
+---
+## Running M8r's Complex Sorter
+
+After patching any mods that add items, you should use the complex sorter to have them be sorted correctly in game. it's very simple.
+
+First, open FO4Edit, and make sure all of your plugins are selected, excluding ones that are grayed out. Wait for the background loader to finish
+
+Next, right click in the left pane, and select `Apply Script`
+
+In the filter bar, type in "M8r" and find `M8r_ComplexSorter`. Run this script.
+
+You should be greeted with a window like this. Make sure it matches the picture, then simply click `Generate Patch`.
+
+Wait for the sorter to finish, then close out of it. You may now close FO4Edit. Be sure to save the new plugin.
+
+You did it!
 ---
 
 ## Noteworthy Mods
