@@ -20,6 +20,7 @@
 - [Post Installation](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#post-installation)
 - [How do I include my favorite weapon and armor mods cleanly?](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#how-do-i-include-my-favorite-weapon-and-armor-mods-cleanly)
 - [What if I don't see the weapon or armor mod I want to include in the FOMOD?](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#what-if-i-dont-see-the-weapon-or-armor-mod-i-want-to-include-in-the-fomod)
+- [Running M8r's Complex Sorter](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#running-m8rs-complex-sorter)
 - [Noteworthy Mods](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#noteworthy-mods)
 - [FAQ](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#faq)
 - [Credits and Thanks](https://github.com/GozerBlackCat/FO4ME/main/README.md#credits-and-thanks)
