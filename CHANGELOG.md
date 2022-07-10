@@ -1,3 +1,7 @@
+## **1.0.7 (Read bottom to top for additions in order)**
+
+Updated F4SE
+
 ## **1.0.6 (Read bottom to top for additions in order)**
 
 Fixed Wabbajack not picking up some mods
