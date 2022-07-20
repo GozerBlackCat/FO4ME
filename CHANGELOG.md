@@ -1,5 +1,9 @@
 ## **1.0.7 (Read bottom to top for additions in order)**
 
+Replaced discord link with one that won't expire.
+
+Fixed a typo in README.
+
 Updated F4SE
 
 ## **1.0.6 (Read bottom to top for additions in order)**
