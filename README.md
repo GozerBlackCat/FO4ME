@@ -258,4 +258,4 @@ I don’t have any specific options, all of the settings are left to personal pr
 ---
 ## Contact
 
-I'm always available on the [FO4ME discord server](https://discord.gg/W9czPm9M), and the [the Wabbajack discord server](https://discord.gg/wabbajack).
+I'm always available on the [FO4ME discord server](https://discord.gg/wjVT4zuvXt), and [the Wabbajack discord server](https://discord.gg/wabbajack).
