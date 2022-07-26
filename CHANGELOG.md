@@ -1,3 +1,11 @@
+## **1.0.8 (Read bottom to top for additions in order)**
+
+Updated Patches for Lively's Keywords Resource and Whisper's Standalone Workbenches
+
+Updated More Active AI
+
+Removed "DON'T TOUCH" separator
+
 ## **1.0.7 (Read bottom to top for additions in order)**
 
 Replaced discord link with one that won't expire.
