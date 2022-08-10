@@ -98,7 +98,7 @@ Let's get to the actual installation..
 
 Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
 
-Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Tick the `Show Unofficial Lists` button. Click the Download arrow for FO4ME, and you will be forwarded to the next screen when it is finished. 
+Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for FO4ME, and you will be forwarded to the next screen when it is finished setting up the download. 
 
 Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\FO4ME`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
