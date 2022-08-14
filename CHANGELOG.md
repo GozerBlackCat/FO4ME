@@ -1,3 +1,25 @@
+## **1.0.11 (Read bottom to top for additions in order)**
+
+Updated Fallout 4 Unofficial Patch
+
+Updated High FPS Physics Fix
+
+Updated Workshop Framework
+
+Updated Standalone Workbenches
+
+Updated Legendary Radroach Fix
+
+Updated 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
+
+## **1.0.10 (Read bottom to top for additions in order)**
+
+Fixed botched F4SE installation
+
+## **1.0.9 (Read bottom to top for additions in order)**
+
+Updated Active Effects on HUD
+
 ## **1.0.8 (Read bottom to top for additions in order)**
 
 Updated Patches for Lively's Keywords Resource and Whisper's Standalone Workbenches
