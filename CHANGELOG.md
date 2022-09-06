@@ -1,3 +1,11 @@
+## **1.0.13 (Read bottom to top for additions in order)**
+
+Updated 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
+
+## **1.0.12 (Read bottom to top for additions in order)**
+
+Cleaned the Downloads folder
+
 ## **1.0.11 (Read bottom to top for additions in order)**
 
 Updated Fallout 4 Unofficial Patch
