@@ -1,3 +1,11 @@
+## **1.0.14 (Read bottom to top for additions in order)**
+
++QuickTrade Redux
+
++Power Armor Animation Changes
+
++Keep Commonwealth Radiant quests within the Commonwealth
+
 ## **1.0.13 (Read bottom to top for additions in order)**
 
 Updated 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
