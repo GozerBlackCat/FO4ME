@@ -1,3 +1,7 @@
+## **1.0.15 pending (Read bottom to top for additions in order)**
+
+Updated Workshop Framework
+
 ## **1.0.14 (Read bottom to top for additions in order)**
 
 +QuickTrade Redux
