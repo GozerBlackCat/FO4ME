@@ -1,4 +1,4 @@
-## **1.0.15 pending (Read bottom to top for additions in order)**
+## **1.0.15 (Read bottom to top for additions in order)**
 
 Updated Workshop Framework
 
