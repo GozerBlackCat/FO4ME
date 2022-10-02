@@ -1,3 +1,7 @@
+## **1.0.16 (Read bottom to top for additions in order)**
+
+Updated 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
+
 ## **1.0.15 (Read bottom to top for additions in order)**
 
 Updated Workshop Framework
