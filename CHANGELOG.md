@@ -1,3 +1,13 @@
+## **1.1.0 (Read bottom to top for additions in order)**
+
+Updated Workshop Framework
+
+Removed Power Armor HUD Switcher
+
+## **1.0.17 (Read bottom to top for additions in order)**
+
+Removed Everything Invisible in 3rd Person - PAHS
+
 ## **1.0.16 (Read bottom to top for additions in order)**
 
 Updated 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
