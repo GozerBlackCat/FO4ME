@@ -1,3 +1,11 @@
+## **1.1.1 (Read bottom to top for additions in order)**
+
+Updated FallUI
+
+Updated Workshop Framework
+
+Updated MCM Settings Manager
+
 ## **1.1.0 (Read bottom to top for additions in order)**
 
 Updated Workshop Framework
