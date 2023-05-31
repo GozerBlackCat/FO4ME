@@ -154,30 +154,6 @@ After you copied the Game Folder Files, launch ModOrganizer.exe from inside your
 ---
 ## How do I include my favorite weapon and armor mods cleanly?
 
-#### Patches For Lively's Keywords Resource and Whisper's Standalone Workbenches 
-
-Your first plan of action is to reinstall this mod
-
-![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patches2finished.png?raw=true)
-
-You will be greeted with a FOMOD. If any of the modded items you have added are listed in this FOMOD, tick the corresponding box for that item.
-
-![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patches3.png?raw=true)
-
-#### LKR and WSW Weapon Patches
-
-Do the same for "LKR and WSW Weapon Patches".
-
-![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchpics1.png?raw=true)
-
-Same process here as with the previous patch
-
-![This is an image](https://github.com/GozerBlackCat/FO4ME/blob/main/instructionalpics/patchespic2.png?raw=true)
-
----
-
-## What if I don't see the weapon or armor mod I want to include in the FOMOD?
-
 #### There is a guide just for this situation!
 
 LivelyDismay was nice enough to make a guide on how to patch items into his mod list "Magnum Opus"! This guide will work for patching modded items into FO4ME, as they use a similar sorting structure.
