@@ -1,7 +1,7 @@
 # FO4ME
 
 ---
-
+THIS LIST HAS BEEN RETIRED
 - [FO4ME](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#FO4ME)
 - [Preamble](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#preamble)
 - [Installation](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md#installation)
