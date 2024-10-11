@@ -231,7 +231,4 @@ I don’t have any specific options, all of the settings are left to personal pr
 
 - To YOU, for reading this guide and following it.
 
----
-## Contact
 
-I'm always available on the [FO4ME discord server](https://discord.gg/wjVT4zuvXt), and [the Wabbajack discord server](https://discord.gg/wabbajack).
